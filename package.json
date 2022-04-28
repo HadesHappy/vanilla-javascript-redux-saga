@@ -1,0 +1,13 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.0",
+    "redux": "^4.2.0",
+    "redux-saga": "^1.1.3"
+  }
+}
